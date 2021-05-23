@@ -1,0 +1,1 @@
+This code is a direct copy of the restful component from homeassistant, with some additional templateing added so that fields like header and payload would support templates. 
